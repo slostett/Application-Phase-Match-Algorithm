@@ -1,9 +1,7 @@
 # Application-Phase-Match-Algorithm
-Algorithm used by UNC School of Medicine to match students to campuses.
+This is the algorithm currently used by UNC School of Medicine administration to match 190 students to campuses for their third year. 
 
-This is a simulation of the algorithm currently used by UNC School of Medicine administration to match 190 students to campuses for their third year. 
+I designed and implimented the algorithm independently. After presenting to the deans, this algorithm was adopted and is now in official use at the medical school. When run on data from last year, every student received a campus match that was in their top three choices.
 
-I designed and created the algorithm independently. After presenting to the deans, a similar algorithm was adopted and is now used.
-
-I recommend running it in the Colab for best results.
+This is a demo I made to present the algorithm to the deans and my classmates. I recommend running it in the Colab for best results.
 https://colab.research.google.com/drive/1Pb5zcupiVJR4n0aCeiOAmWchUm6F3c7x
